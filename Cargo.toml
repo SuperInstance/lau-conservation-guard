@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Budget enforcement layer for the LAU construct — tracks, verifies, and enforces conservation units"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-conservation-guard"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
